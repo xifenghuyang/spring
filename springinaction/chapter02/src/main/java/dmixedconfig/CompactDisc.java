@@ -1,10 +1,10 @@
-package bjavaconfig;
+package dmixedconfig;
 
 /**
- * @author
+ * @author admin
  */
 public interface CompactDisc {
 
+    /** 接口 **/
     void play();
-
 }

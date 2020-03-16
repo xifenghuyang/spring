@@ -1,10 +1,9 @@
-package bjavaconfig;
+package cxmlconfig;
 
 /**
- * @author
+ * @author admin
  */
 public interface CompactDisc {
-
+    /** 接口 **/
     void play();
-
 }
